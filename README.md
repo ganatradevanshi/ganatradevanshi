@@ -5,10 +5,10 @@ I enjoy anything that involves inventiveness, novelty or transforming imaginatio
 hence I closely associate myself with software development and love creating new things and addressing challenging problems.
 
 #### SKILLS:
-## Languages -
+##### Languages -
 Java, C, C++, HTML, PHP, CSS, JavaScript, Python
 
-## Framework & Technologies-
+##### Framework & Technologies-
 React, React Native, Redux, Angular, Bootstrap, Jest, Enzyme, Flask, Spring Boot, NodeJS, ExpressJS, Maven, MongoDB, SQL, AWS, Heroku, TravisCI, Docker, GIT
 
 
